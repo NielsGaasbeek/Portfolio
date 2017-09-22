@@ -1,0 +1,1 @@
+﻿potion,hp,50;pokeball,ball,1

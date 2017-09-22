@@ -1,0 +1,29 @@
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\PokeGame.exe
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\PokeGame.pdb
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\obj\x86\Debug\PokeGame.csprojResolveAssemblyReference.cache
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\obj\x86\Debug\PokeGame.exe
+D:\Users\Brian\Documents\Universiteit\GameProg project\Peejper-Games\PokeGame\PokeGame\obj\x86\Debug\PokeGame.pdb
+D:\Users\Brian\Dropbox\Visual Studio projects\PokeGame\PokeGame\obj\x86\Debug\PokeGame.exe
+D:\Users\Brian\Dropbox\Visual Studio projects\PokeGame\PokeGame\obj\x86\Debug\PokeGame.pdb
+C:\Users\NielsG\Desktop\Peejper-Games\PokeGame\PokeGame\obj\x86\Debug\PokeGame.exe
+C:\Users\NielsG\Desktop\Peejper-Games\PokeGame\PokeGame\obj\x86\Debug\PokeGame.pdb

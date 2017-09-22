@@ -1,0 +1,1 @@
+﻿Charmander;Fire; 39; 52; 43; 60; 50; 65:scratch, 40, 100;ember, 40, 100;slash, 70, 100;inferno, 100, 50

@@ -1,0 +1,146 @@
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\BattleTheme.wma
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\OpeningTheme.wma
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\overworldTheme.wma
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Backgrounds\helpBackground.PNG
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Backgrounds\mainMenuBackground.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Backgrounds\settingsBackground.PNG
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Battle\expBar.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Battle\healthBar.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Battle\infoBoxOpponent.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Battle\infoBoxPlayer.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\backButton.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\helpButton.PNG
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\newSaveButton.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\playButton.PNG
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\settingsButton.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\sliderBack.PNG
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\sliderButton.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\testBattle.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Buttons\testPlay.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_down.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_left.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_right.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_up.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_down.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_left.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_right.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_up.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\walk_down@3.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Files\Characters\1.txt
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Files\Tiles\1.txt
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\grass.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\stone.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\wall.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\wall2.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\wallcorner.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\water.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Tiles\water2.png
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\cantWalkThere.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\click.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\expGain.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\moveHit.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\pokemonCenterHeal.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\potionHeal.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\runAway.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\BattleTheme.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\overworldTheme.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\OpeningTheme.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\Content\Fonts\Hud.xnb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\PokeGame.exe
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\PokeGame.pdb
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\obj\x86\Debug\PokeGame.csprojResolveAssemblyReference.cache
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\obj\x86\Debug\PokeGame.exe
+D:\Users\Brian\Dropbox\Visual Studio projects\Peejper-Games-master\PokeGame\obj\x86\Debug\PokeGame.pdb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\obj\x86\Debug\PokeGame.exe
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\obj\x86\Debug\PokeGame.pdb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\OpeningTheme.wma
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Backgrounds\helpBackground.PNG
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Backgrounds\mainMenuBackground.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Backgrounds\settingsBackground.PNG
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\backButton.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\helpButton.PNG
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\playButton.PNG
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\settingsButton.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\sliderBack.PNG
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\sliderButton.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\OpeningTheme.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\BattleTheme.wma
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\overworldTheme.wma
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Battle\expBar.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Battle\healthBar.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Battle\infoBoxOpponent.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Battle\infoBoxPlayer.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\newSaveButton.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\testBattle.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Buttons\testPlay.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_down.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_left.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_right.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\fisher\idle_up.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_down.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_left.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_right.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\idle_up.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Characters\player\walk_down@3.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Files\Characters\1.txt
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Files\Tiles\1.txt
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\grass.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\stone.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\wall.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\wall2.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\wallcorner.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\water.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Tiles\water2.png
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\cantWalkThere.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\click.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\expGain.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\moveHit.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\pokemonCenterHeal.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\potionHeal.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Effects\runAway.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\BattleTheme.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\Content\Audio\Music\overworldTheme.xnb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\PokeGame.exe
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\PokeGame.pdb
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\niels_000\Desktop\Uni\Peejper-Games\PokeGame\obj\x86\Debug\PokeGame.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+﻿fight;attack;do;use;item;switch;run;cancel
+pikachu;bulbasaur;charmander;cancel
+tackle;vine whip;razor leaf;seed bomb;scratch;ember;slash;inferno;quick attack;thunderbolt;spark;cancel
+potion;cancel

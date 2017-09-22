@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/runAway.wav</SourceFile>
+  <SourceTime>2016-12-20T17:47:30.8909955+01:00</SourceTime>
+  <DestFile>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/bin/Windows/Audio/Effects/runAway.xnb</DestFile>
+  <DestTime>2016-12-20T18:25:07.7071171+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

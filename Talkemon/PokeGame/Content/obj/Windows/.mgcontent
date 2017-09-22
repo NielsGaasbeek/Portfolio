@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/cantWalkThere.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/click.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/expGain.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/moveHit.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/pokemonCenterHeal.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/potionHeal.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Effects/runAway.wav</File>
+    <File>C:/Users/niels_000/Desktop/Uni/Peejper-Games/PokeGame/Content/Audio/Music/overworldTheme.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
